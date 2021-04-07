@@ -1,1 +1,1 @@
-New line for the second file
+New line for another file
