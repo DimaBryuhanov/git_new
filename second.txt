@@ -1,1 +1,2 @@
 Some text for the second file.
+Second line for the second file
