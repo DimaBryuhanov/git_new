@@ -1,0 +1,5 @@
+#ignored  folders
+node_modules/
+
+#ignored files
+to_be_ignored.txt
