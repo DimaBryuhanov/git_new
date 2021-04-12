@@ -3,3 +3,6 @@ node_modules/
 
 #ignored files
 to_be_ignored.txt
+./texts/*.txt
+*.txt
+!new_file.txt
